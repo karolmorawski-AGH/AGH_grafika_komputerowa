@@ -1,0 +1,30 @@
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\bin\Debug\lab6.exe.config
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\bin\Debug\lab6.exe
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\bin\Debug\lab6.pdb
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.Form1.resources
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.exe
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\karol morawski\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\obj\Debug\lab6.pdb
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\obj\Debug\lab6.Form1.resources
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\obj\Debug\lab6.exe
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\obj\Debug\lab6.pdb
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\bin\Debug\lab6.exe.config
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\bin\Debug\lab6.exe
+F:\_projects\Visual Studio\Grafika komputerowa\lab6\lab6\lab6\bin\Debug\lab6.pdb
