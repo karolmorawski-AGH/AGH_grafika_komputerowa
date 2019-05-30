@@ -1,0 +1,10 @@
+F:\_projects\Visual Studio\lab3\lab3\bin\Debug\lab3.exe.config
+F:\_projects\Visual Studio\lab3\lab3\bin\Debug\lab3.exe
+F:\_projects\Visual Studio\lab3\lab3\bin\Debug\lab3.pdb
+F:\_projects\Visual Studio\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+F:\_projects\Visual Studio\lab3\lab3\obj\Debug\lab3.Form1.resources
+F:\_projects\Visual Studio\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+F:\_projects\Visual Studio\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\_projects\Visual Studio\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\_projects\Visual Studio\lab3\lab3\obj\Debug\lab3.exe
+F:\_projects\Visual Studio\lab3\lab3\obj\Debug\lab3.pdb
