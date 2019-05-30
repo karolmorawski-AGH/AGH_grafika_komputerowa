@@ -59,9 +59,7 @@ namespace lab2
         private void Button12_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-
-        private void Button3_Click(object sender, EventArgs e)
+        } private void Button3_Click(object sender, EventArgs e)
         {
             //circle radius
             g.DrawLine(pen2, -150, 0, 150, 0); //|r| == 150

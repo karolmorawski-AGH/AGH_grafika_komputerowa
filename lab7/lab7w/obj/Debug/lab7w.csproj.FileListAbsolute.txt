@@ -1,0 +1,10 @@
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\obj\Debug\lab7w.csprojAssemblyReference.cache
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\obj\Debug\lab7w.Form1.resources
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\obj\Debug\lab7w.Properties.Resources.resources
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\obj\Debug\lab7w.csproj.GenerateResource.cache
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\obj\Debug\lab7w.csproj.CoreCompileInputs.cache
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\bin\Debug\lab7w.exe.config
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\bin\Debug\lab7w.exe
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\bin\Debug\lab7w.pdb
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\obj\Debug\lab7w.exe
+C:\Users\karol morawski\_projects\Visual Studio\lab7w\lab7w\obj\Debug\lab7w.pdb
